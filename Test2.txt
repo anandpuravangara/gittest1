@@ -1,2 +1,0 @@
-This is a second text file txt line.
-Adding second line to test2 txt file
